@@ -1,6 +1,6 @@
 # 2018 ACCOV tp0 : Prise en Main
 
-
+Pascal Fares
 
 # Prise en main TP cycle C (deuxième semestre) GLG204 et SMB215
 
@@ -28,10 +28,11 @@ Mode          | (hybride)
 
 ## Installer (pré-requis)
 
-Java
-Netbeans
-ssh
-git
+* Java
+* Netbeans
+
+1. ssh
+1. git
 
 ## Supports
 
