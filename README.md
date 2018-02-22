@@ -1,6 +1,6 @@
 # 2018 ACCOV tp0 : Prise en Main
 
-Pascal Fares
+Pascal Fares (modifier sur guthub)
 
 # Prise en main TP cycle C (deuxième semestre) GLG204 et SMB215
 
